@@ -5,8 +5,7 @@ Materials and data generated and analysed to assess the quality of the indicatio
 
 #### Description of the contents of this repository:
 
-1. `Analysis-figures/`
-Figures in .png format demonstrating the number of overlapping indications in our analysed datasets
+1. `Analysis-figures/`  Figures in .png format demonstrating the number of overlapping indications in our analysed datasets
 
 2. LabeledIn-comparison/labeledin_crowd.dsv							:		Official [LabeledIn](https://ftp.ncbi.nlm.nih.gov/pub/lu/LabeledIn/) dataset (portion which was crowdsourced)
 
