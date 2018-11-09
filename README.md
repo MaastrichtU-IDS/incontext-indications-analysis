@@ -19,4 +19,4 @@ Materials and data generated and analysed to assess the quality of the indicatio
 
 7. `MainData.xlsx`<br>Main data file with indications from DrugCentral, our manual curations, and analyses by medical experts (and computer algorithms by [Ted Pedersen](http://www.d.umn.edu/~tpederse/umls-similarity.html)) to determine semantically similar (equivalent) indications that have different names 
 
-8. `DailyMed Drug SPL Annotation Protocol.docx`<br>Main data file with indications from DrugCentral, our manual curations, and analyses by medical experts (and computer algorithms by [Ted Pedersen](http://www.d.umn.edu/~tpederse/umls-similarity.html)) to determine semantically similar (equivalent) indications that have different names 
+8. `DailyMed Drug SPL Annotation Protocol.docx`<br>Document fully detailing step-by-step protocol for annotating drug product labels on [DailyMed](https://dailymed.nlm.nih.gov/dailymed) with therapeutic usage information.
