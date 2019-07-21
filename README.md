@@ -1,7 +1,7 @@
 
 # DrugCentral Indication Quality Analysis
 
-Materials and data generated and analysed to assess the quality of the indication information on [DrugCentral](http://drugcentral.org/). Currently we have manually curated indications for 150 anti-cancer and cardiovascular drugs using the [Hypothes.is](https://web.hypothes.is/) webpage annotation tool to highlight indications in digital drug labels on the [DailyMed](https://dailymed.nlm.nih.gov) website. We then compare these FDA-approved indications to the ones specified by DrugCentral to determine if DrugCentral's information is accurate and precise enough.
+Materials and data generated and analysed to verify level of overlap in indication information from [DrugCentral](http://drugcentral.org/), LabeledIn and InContext. Currently we have manually curated indications for 150 anti-cancer and cardiovascular drugs using the [Hypothes.is](https://web.hypothes.is/) webpage annotation tool to highlight indications in digital drug labels on the [DailyMed](https://dailymed.nlm.nih.gov) website - we call our curation InContext. We then compare InContext indications to the ones specified by DrugCentral and LabeledIn.
 
 #### Description of the contents of this repository:
 
@@ -19,4 +19,4 @@ Materials and data generated and analysed to assess the quality of the indicatio
 
 7. `MainData.xlsx`<br>Main data file with indications from DrugCentral, our manual curations, and analyses by medical experts (and computer algorithms by [Ted Pedersen](http://www.d.umn.edu/~tpederse/umls-similarity.html)) to determine semantically similar (equivalent) indications that have different names 
 
-8. `DailyMed Drug SPL Annotation Protocol.docx`<br>Document fully detailing step-by-step protocol for annotating drug product labels on [DailyMed](https://dailymed.nlm.nih.gov/dailymed) with therapeutic usage information.
+8. `InContext Annotation Protocol.docx`<br>Document fully detailing step-by-step protocol for annotating drug product labels on [DailyMed](https://dailymed.nlm.nih.gov/dailymed) with therapeutic usage information.
